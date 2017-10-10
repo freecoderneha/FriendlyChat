@@ -1,0 +1,5 @@
+<root>
+    <item name='com.firebase.ui.auth.AuthUI'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
